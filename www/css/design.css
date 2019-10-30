@@ -1,0 +1,88 @@
+.row
+{
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: #072831;
+    border: 1px solid #4AD8FF;
+
+    color: antiquewhite;
+
+    padding: 0.3em 2em 0.5em;
+}
+
+.item-level-1
+{
+    color: #FACE46;
+}
+
+.item-level-2
+{
+    color: #F8A51C;
+}
+
+.item-level-3
+{
+    color: #F66F00;
+}
+
+.item-level-4
+{
+    color: #D40000;
+}
+
+.item-level-5
+{
+    color: #F52494;
+}
+
+.item-level-6
+{
+    color: #DE27D0;
+}
+
+.item-level-7
+{
+    color: #B725E1;
+}
+
+.item-level-8
+{
+    color: #982BFB;
+}
+
+.item-rarity-very-common
+{
+    color: white;
+}
+
+.item-rarity-common
+{
+    color: #94FBBB;
+}
+
+.item-rarity-rare
+{
+    color: #9A82E8;
+}
+
+.item-rarity-very-rare
+{
+    color: #F88AF9;
+}
+
+.item-count
+{
+    color: #F8B100;
+}
+
+.dept-right
+{
+    float: right;
+}
+
+.dept-left
+{
+    float: left;
+}
