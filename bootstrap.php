@@ -13,13 +13,13 @@ dibi::connect(array(
     'driver'   => 'mysqli',
     'host'     => 'localhost',
     'username' => 'drilly',
-    'password' => 'EWa2yMrwQjbBu5sj',
+    'password' => '',
     'database' => 'drilly',
     'charset'  => 'utf8',
-/*    'profiler' => [
+    'profiler' => [
         'run' => TRUE,
-        'file' => 'log-' . date('Y-m-d') . '.txt',
-],*/
+        'file' => 'log-' . date('Y-m-d') . '.sql',
+],
 ));
 
 $smarty = new Smarty();
